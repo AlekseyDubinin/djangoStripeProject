@@ -80,7 +80,7 @@ http://127.0.0.1:8000/admin/
 
 #### Товар и ссылка на оплату:
 
-![img_2.png](ihttps://github.com/AlekseyDubinin/djangoStripeProject/blob/master/%20img/img_3.png)
+![img_2.png](https://github.com/AlekseyDubinin/djangoStripeProject/blob/master/%20img/img_3.png)
 
 #### Оплата товара:
 
