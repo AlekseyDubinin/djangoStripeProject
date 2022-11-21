@@ -10,15 +10,15 @@
 
 
 <section>
-    <h1>Здесь будут продукты</h1>
-    <h2>Добавьте их в админке</h2>
+    <h1>Продукты для покупки</h1>
+    <h2></h2>
     {% for item in items %}
          <br>
         <div class="product">
             <div class="description">
                 <h3>Название: {{ item.name }}</h3>
                 <h4>Описание: {{ item.description }}</h4>
-                <h5>Цена: ${{ item.get_str_to_dollars }}</h5>
+                <h5>Цена: ${{ item.price }}</h5>
             </div>
         </div>
         <a href="{% url 'item' item.pk %}">
