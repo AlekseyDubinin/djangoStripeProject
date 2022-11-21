@@ -38,7 +38,7 @@ https://dashboard.stripe.com/settings/account
 ------
 
 ```
-git clone https://github.com/vadushkin/stripe_task.git
+git clone https://github.com/AlekseyDubinin/djangoStripeProject.git
 cd stripe_task
 python -m venv venv
 .\venv\Scripts\activate
