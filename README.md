@@ -61,7 +61,7 @@ http://127.0.0.1:8000/admin/
 
 Пример Админки:
 ----------
-![img.png](img/img_1.png)
+![img.png](https://github.com/AlekseyDubinin/djangoStripeProject/blob/master/%20img/img_1.png)
 
 Сервис
 ------
@@ -76,12 +76,12 @@ http://127.0.0.1:8000/admin/
 
 #### Главная страница с ссылками на товары:
 
-![img.png](img/img_2.png)
+![img.png](https://github.com/AlekseyDubinin/djangoStripeProject/blob/master/%20img/img_2.png)
 
 #### Товар и ссылка на оплату:
 
-![img_2.png](img/img_3.png)
+![img_2.png](ihttps://github.com/AlekseyDubinin/djangoStripeProject/blob/master/%20img/img_3.png)
 
 #### Оплата товара:
 
-![img_1.png](img/img_4.png)
+![img_1.png](https://github.com/AlekseyDubinin/djangoStripeProject/blob/master/%20img/img_4.png)
